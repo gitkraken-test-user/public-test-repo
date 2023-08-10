@@ -1,7 +1,7 @@
 # public-test-repo
 A repository for testing GitHub integrations
 
-line
+edited line for pr
 line
 other lines
 line
